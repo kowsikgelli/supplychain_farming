@@ -32,10 +32,22 @@ Web3.js v1.2.1
 ## Class Diagram
 ![Classes (Data Model)](images/class-diagram.png)
 
-### Project write-up - Libraries
+
+## Project write-up-Libraries
 I used one Library called Roles. It made very easy to maintain different roles in supplychain(FarmerRole,DistributorRole,ConsumerRole,RetailerRole).
 
-### Project write-up - IPFS
+## Project write-up-IPFS
+Yes i used IPFS to deploy my Dapp in Decentralized way not in a central server. I stored all my client-side code and build directory to dist folder and addes dist folder to ipfs. 
+ 1)You should install ipfs in your system
+ 2)start your daemon by goin into terminal and enter command ipfs daemon.
+ 3)now you can paste this link in your browser(Brave Browser Recommended).
+
+```
+http://ipfs.io/ipfs/QmZv7Nijt6p6mNWxsxaL1u3dWNyuNVagctfN6qhvB5eCPV
+```
+
+![](images/ipfs.png)
+
 
 ## Getting Started
 
