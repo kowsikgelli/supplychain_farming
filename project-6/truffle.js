@@ -7,7 +7,7 @@ module.exports = {
     //   network_id: "*" // Match any network id
     // }
     rinkeby:{
-      provider:()=>new HDWalletProvider('utility local omit alley affair toe ivory scheme depth voyage major shield','https://rinkeby.infura.io/v3/581a87de075a47b996840bc292cb22f8'),
+      provider:()=>new HDWalletProvider('Your Mnemonic','Your Infura key'),
       network_id:4,
       gas:5500000
     },
